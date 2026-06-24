@@ -25,7 +25,6 @@ Developed a Smart Energy Meter using ESP32 for real-time monitoring of voltage, 
 
 * Arduino IDE
 * Blynk IoT
-* Embedded C
 
 ## Applications
 
